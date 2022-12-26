@@ -21,8 +21,5 @@ Important Notes
 
 3. This same trick will work on every Marshmallow and Nougat Roms
 
-Added a screenshot as a proof that it's working :)
-
-This is my first thread in xda so please forgive me if I made any mistake
-Sorry for my bad English
-Thank you :)
+Added a screenshot as a proof that it's working.
+Thank you!
